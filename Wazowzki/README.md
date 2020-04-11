@@ -1,3 +1,3 @@
 # wazowski
 
-wazowskiren argazkiak kopiatu pythonen
+Wazowskiren argazkiak kopiatu python erabilita
