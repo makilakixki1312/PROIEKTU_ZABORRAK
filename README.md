@@ -1,4 +1,4 @@
 # PROIEKTU_ZABORRAK
-Egindako "proiektuak", nere subnormalitatea ageri jartzen dutenak
+Nere subnormalitatea ageri jartzen duten egindako "proiektuak"
 
 Karpeta bakoitza "proiektu" bat da
