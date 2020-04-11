@@ -1,4 +1,4 @@
-# KAKA-Kodea
+# PROIEKTU_ZABORRAK
 Egindako "proiektuak", nun nere subnormalitatea ageri jartzen dutenak
 
 Karpeta bakoitza "proiektu" bat da
